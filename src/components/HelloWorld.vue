@@ -2,8 +2,9 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Hello! Welcome to my site!\n My name is Drew Friend, I'm a programmer who is versed in a large variety of different
-    languages, frameworks, and technologies. I have worked alongside teammates and alone on a variety of different projects. Including but not limited to: Websites, Video Games, Bots, and general use programs.
+      For a guide and recipes on how to configure / customize this project,<br>
+      check out the
+      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
