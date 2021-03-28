@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <img alt="Drew Friend" src="https://avatars.githubusercontent.com/u/43389539?v=4">
-    <HelloWorld msg="Test"/>
+    <HelloWorld msg="Hello! Welcome to my website!"/>
+    
   </div>
 </template>
 
